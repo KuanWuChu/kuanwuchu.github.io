@@ -9,8 +9,8 @@ icon: none
 superuser: ture
 role: Student
 organizations: 
-  -name: National Chengchi University
-   url:  https://www.nccu.edu.tw/app/home.php
+  - name: National Chengchi University
+    url:  https://www.nccu.edu.tw/app/home.php
 
 bio: hello
 
