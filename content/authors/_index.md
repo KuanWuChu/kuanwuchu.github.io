@@ -15,7 +15,7 @@ organizations:
 bio: hello
 
 interests:
-  -Artificial Intelligence
+  - Artificial Intelligence
 
 education: university
   courses: none
