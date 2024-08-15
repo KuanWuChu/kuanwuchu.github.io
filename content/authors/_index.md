@@ -17,12 +17,18 @@ bio: hello
 interests:
   - Artificial Intelligence
 
-education: university
-  courses: none
-_build: none 
-  render: never
-cascade: none 
-  _build: none 
+education:
+  university:
+    courses: none
+
+_build:
+  none:
     render: never
-    list: always
+
+cascade:
+  none:
+    _build:
+      render: never
+      list: always
+
 ---
