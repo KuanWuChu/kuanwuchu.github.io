@@ -1,5 +1,24 @@
 ---
 # To publish author profile pages, remove all the `_build` and `cascade` settings below.
+
+title: Kuan-Wu Chu 朱冠伍
+first_name: Kuan-Wu
+last_name:Wu
+status:
+icon:
+superuser: ture
+role: Student
+organizations: 
+  -name: National Chengchi University
+   url:  https://www.nccu.edu.tw/app/home.php
+
+bio: hello
+
+interests:
+  -Artificial Intelligence
+
+education:
+  courses:
 _build:
   render: never
 cascade:
