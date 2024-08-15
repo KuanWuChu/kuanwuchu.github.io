@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Kuan-Wu Chu 朱冠伍
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kuan-Wu Chu 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kuan-Wu
+last_name: Chu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: :)
 
 # Is this the primary user of the site?
 superuser: true
