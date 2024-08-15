@@ -3,7 +3,7 @@
 
 title: Kuan-Wu Chu 朱冠伍
 first_name: Kuan-Wu
-last_name:Wu
+last_name: Wu
 status:
 icon:
 superuser: ture
@@ -17,12 +17,12 @@ bio: hello
 interests:
   -Artificial Intelligence
 
-education:
-  courses:
-_build:
+education: university
+  courses: none
+_build: none 
   render: never
-cascade:
-  _build:
+cascade: none 
+  _build: none 
     render: never
     list: always
 ---
