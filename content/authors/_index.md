@@ -3,9 +3,9 @@
 
 title: Kuan-Wu Chu 朱冠伍
 first_name: Kuan-Wu
-last_name: Wu
-status:
-icon:
+last_name: Chu
+status: none
+icon: none
 superuser: ture
 role: Student
 organizations: 
